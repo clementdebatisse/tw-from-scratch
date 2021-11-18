@@ -1,0 +1,41 @@
+/*
+Theme Name: TW-From-Scratch
+Author: Clement Debatisse
+Description: Theme from scratch crée pour une candidature
+Version: 1.0
+*/
+
+body {
+  background-color: whitesmoke;
+  color: black;
+}
+
+header {
+  background: grey;
+  width: 100%;
+  height: 100px;
+}
+
+.navigation {
+  color: black;
+}
+
+.card {
+  background-color: grey;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+
+.nav {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
