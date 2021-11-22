@@ -2,7 +2,7 @@
 
 Description : 
 
-Ce repo contient un thème Wordpress réalisé from scratch pour une candidature. 
+Ce repo contient un thème Wordpress réalisé from scratch pour un exercice.
 
 Les instructions étaient de créer un theme from sratch, créer un CPT "Recettes" afin d'ajouter des recettes de cuisines, puis d'y ajouter des Custom Fields pour permettre à l'utilisateur de rajouter des informations sur sa recette (titre, temps de cuisson, ingrédients, etc).
 L'utilisateur peut également ajouter une image d'illustration via "Image mise en avant : Définir l'image mise en avant".
